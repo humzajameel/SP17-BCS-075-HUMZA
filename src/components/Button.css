@@ -1,0 +1,21 @@
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #DCDCDC;
+  color: black;
+  flex: 1;
+  outline: 0.5px solid #696969;
+  cursor: pointer;
+}
+
+.operator {
+  background-color: #136dc0;
+}
+
+.special-operation{
+  background-color: #C0C0C0;
+}
